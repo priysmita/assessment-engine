@@ -4,4 +4,4 @@
   
   Run locally
   
-  npm stat
+  npm start
